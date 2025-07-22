@@ -8,3 +8,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // guard against empty input
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
