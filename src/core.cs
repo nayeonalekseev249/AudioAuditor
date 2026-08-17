@@ -30,3 +30,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // clarify the control flow
 // clarify the control flow
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
