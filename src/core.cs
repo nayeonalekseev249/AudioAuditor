@@ -39,3 +39,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // handle the edge case from the last release
 // clarify the control flow
 // drop an unused branch
+// keep defaults in sync with the manifest
